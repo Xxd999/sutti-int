@@ -1,0 +1,20 @@
+{
+  "name": "sutti-int",
+  "version": "1.0.0",
+  "description": "Generating random integers.",
+  "main": "src/index.js",
+  "keywords": ["sutti-int"],
+  "author": "Xxd999",
+  "license": "MIT",
+  "repository": {
+    "type": "git",
+    "url": "https://github.com/Xxd999/sutti-int.git"
+  },
+  "bugs": {
+    "url": "https://github.com/Xxd999/sutti-int/issues"
+  },
+  "homepage": "https://github.com/Xxd999/sutti-int#readme",
+  "dependencies": {
+    "round-date": "1.1.2"
+  }
+}
